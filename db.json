@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "palm",
+      "image": ".jpg",
+      "price": "25",
+      "id": 8
+    },
+    {
+      "name": "baby's breath",
+      "image": "https://www.thespruce.com/thmb/ZvG2TpOr7Iwa_Rz4ZsZP8ct0k2c=/2848x2848/smart/filters:no_upscale()/babys-breath-garden-favorite-4082480-hero-3541658fa2994c57b0b7bea92973f2b8.JPG",
+      "price": "25",
+      "id": 9
     }
   ]
 }
